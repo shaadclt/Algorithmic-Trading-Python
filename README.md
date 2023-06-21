@@ -17,7 +17,7 @@ This is a Python application that uses the Streamlit library to perform algorith
     
 ## Usage
 
-1.Run the application:
+1. Run the application:
 
     ```shell
       streamlit run app.py
