@@ -21,6 +21,7 @@ This is a Python application that uses the Streamlit library to perform algorith
     ```shell
     streamlit run app.py
     ```
+    
 2. Enter a stock ticker (e.g., AAPL) in the input field.
 
 3. Select a period from the dropdown menu (1mo, 3mo, 6mo, 1y).
