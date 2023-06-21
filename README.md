@@ -1,4 +1,4 @@
-# Algorithmic Trading with Stock Momentum Analysis
+# Algorithmic Trading using Momentum Strategy and Python
 
 This is a Python application that uses the Streamlit library to perform algorithmic trading analysis based on stock momentum. It retrieves stock data from Yahoo Finance using the `yfinance` library and visualizes the momentum and buying/selling signals using Plotly.
 
