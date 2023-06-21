@@ -16,8 +16,10 @@ This is a Python application that uses the Streamlit library to perform algorith
     ```
     
 ## Usage
+
 1.Run the application:
-    ```shell
+
+    ```bash
     streamlit run app.py
     ```
     
