@@ -19,8 +19,8 @@ This is a Python application that uses the Streamlit library to perform algorith
 
 1.Run the application:
 
-    ```bash
-    streamlit run app.py
+    ```shell
+      streamlit run app.py
     ```
     
 2. Enter a stock ticker (e.g., AAPL) in the input field.
